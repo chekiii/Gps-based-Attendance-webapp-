@@ -21,7 +21,6 @@ A GPS-based attendance system that allows users (e.g., students or employees) to
 
 ## 📸 Screenshots
 
-> *(Add screenshots of your application if available)*
 > ![teacher dashboard2](https://github.com/user-attachments/assets/70c91aa6-49f1-4e12-ad0d-7259427e8de4)
 
 
@@ -29,5 +28,5 @@ A GPS-based attendance system that allows users (e.g., students or employees) to
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/gps-attendance-system.git
-   cd gps-attendance-system
+   git clone https://github.com/chekiii/Gps-based-Attendance-webapp-.git
+   cd Gps-based-Attendance-webapp

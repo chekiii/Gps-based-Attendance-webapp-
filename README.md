@@ -20,8 +20,7 @@ A GPS-based attendance system that allows users (e.g., students or employees) to
 - Geolocation API: HTML5 Geolocation or mobile-native GPS
 
 ## 📸 Screenshots
-
-> ![teacher dashboard2](https://github.com/user-attachments/assets/70c91aa6-49f1-4e12-ad0d-7259427e8de4)
+![Editorial Fashion Accessory Brand Banner for Shopify](https://github.com/user-attachments/assets/a098a707-c584-452b-8f8b-9db44a8a27f0)
 
 
 ## 🔧 Setup Instructions

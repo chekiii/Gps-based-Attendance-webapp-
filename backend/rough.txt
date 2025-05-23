@@ -1,0 +1,7 @@
+{
+ "classname":"cse 3rd year",
+ "startroll":252202000,
+ "endroll":2522020289
+
+   
+}
